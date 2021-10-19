@@ -98,4 +98,4 @@ class PasswordsService {
   }
 }
 
-module.exports = new PasswordsService();
+export default new PasswordsService();
