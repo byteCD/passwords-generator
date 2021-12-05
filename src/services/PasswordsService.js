@@ -59,7 +59,7 @@ class PasswordsService {
     }
 
     if (+passwordsAmount > 5) {
-      return { error: "Максимальная длина количества паролей - 5 штук" };
+      return { error: "Максимальное количество паролей - 5 штук" };
     }
 
     let passwords = [];
