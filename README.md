@@ -1,5 +1,7 @@
 # Passwords Generator
 Приложение для генерации паролей разной сложности
+# Демо
+Посмотреть можно тут: https://bytecd.github.io/passwords-generator/
 # Стек технологий
 1. React
 # Запуск
